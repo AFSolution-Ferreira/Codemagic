@@ -1,5 +1,3 @@
-![Mobile-Flutter: Flutter CI](capa.png)
-
 # Flutter: Integração Contínua
 
 Projeto Sorteador de amigo secreto para o curso Flutter CI.
@@ -8,14 +6,6 @@ Projeto Sorteador de amigo secreto para o curso Flutter CI.
 
 - Integração contínua;
 - Pipelines;
-
-Este curso é indicado para pessoas que já tem conhecimento intermediário e querem aprofundar seu conhecimento em Flutter, elevando a qualidade da suas entregas, reduzindo a quantidade de bugs e garantido uma melhor escrita de código.
-
-## 📑 Requisitos
-
-- Conhecimentos intermediários de Flutter e Dart;
-- VS Code com plugins do Flutter e Dart instalados (recomendado para acompanhar este curso);
-- É importante ter o Flutter na versão 3.10.2.
 
 ## ✨ Funcionalidades do projeto
 
